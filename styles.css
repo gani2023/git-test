@@ -10,6 +10,7 @@
 .container{
     height: 50vh;
     width: 18vw;
+    min-width: 200px;
     background-color: white;
     border-radius: 5%;
     display: flex;
