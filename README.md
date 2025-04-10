@@ -8,7 +8,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 
 ## 🚀 Live Demo
 
-🔗 [View live site here](https://your-live-demo-link.com)  
+🔗 [View live site here](https://gani2023.github.io/git-test/)  
 _(Replace with your actual GitHub Pages or Netlify link if deployed)_
 
 ---
